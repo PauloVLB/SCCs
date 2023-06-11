@@ -1,0 +1,8 @@
+>> Tempo para encontrar número mínimo de arestas: 0.1552ms
+
+>> Número de componentes fortemente conexas: 1
+
+>> Componentes fortemente conexas:
+	 > 0 2 1 
+
+>> Número mínimo de arestas: 0

@@ -1,0 +1,12 @@
+>> Tempo para encontrar número mínimo de arestas: 0.1584ms
+
+>> Número de componentes fortemente conexas: 5
+
+>> Componentes fortemente conexas:
+	 > 4 
+	 > 3 
+	 > 0 1 2 
+	 > 5 
+	 > 6 
+
+>> Número mínimo de arestas: 2
